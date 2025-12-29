@@ -2,4 +2,5 @@
 
 # darkflow
 
-customizable discord theme based on [midnight-discord](https://github.com/refact0r/midnight-discord)
+customizable discord theme based on [midnight-discord](https://github.com/refact0r/midnight-discord) by refact0r
+
