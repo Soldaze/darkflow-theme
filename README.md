@@ -6,6 +6,8 @@ customizable discord theme based on [midnight-discord](https://github.com/refact
 
 ## credits
 
+original theme inspired by <https://github.com/refact0r/midnight-discord>
+
 original design inspired by <https://github.com/schnensch0/zelk>
 
 window controls inspired by <https://github.com/Dyzean/Tokyo-Night>
